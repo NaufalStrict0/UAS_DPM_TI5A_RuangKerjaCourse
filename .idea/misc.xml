@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/drawable/back20.xml" value="0.34427083333333336" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/drawable/background.xml" value="0.5703125" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/drawable/bagnotif.xml" value="0.34427083333333336" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/drawable/button_click.xml" value="0.5744791666666667" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/drawable/ic_all.xml" value="0.42592592592592593" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/drawable/ic_notify.xml" value="0.41388888888888886" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/drawable/ic_search_1.xml" value="0.5656410256410257" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/drawable/ic_vector.xml" value="0.5703125" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/drawable/kotak_biru.xml" value="0.5744791666666667" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/drawable/kotak_biru_account_setting.xml" value="0.487962962962963" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/drawable/kotak_biru_atas.xml" value="0.5744791666666667" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/drawable/kotak_biru_bottom.xml" value="0.24074074074074073" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/drawable/kotak_emas_acoount_setting.xml" value="0.487962962962963" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/drawable/kotak_hijau.xml" value="0.5744791666666667" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/drawable/kotak_kalender.xml" value="0.487962962962963" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/drawable/kotak_logout.xml" value="0.487962962962963" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/drawable/kotak_maroon_account_setting.xml" value="0.487962962962963" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/drawable/kotak_orange.xml" value="0.5703125" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/drawable/kotak_putih_atas.xml" value="0.5744791666666667" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/drawable/kotak_tengah_dashboar_1.xml" value="0.5744791666666667" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/drawable/kotak_tengah_dashboard.xml" value="0.5744791666666667" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/drawable/kotak_ungu.xml" value="0.5744791666666667" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/drawable/my20.xml" value="0.42592592592592593" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/layout/activity_account_setting.xml" value="0.33" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/layout/activity_course_material.xml" value="0.3428442028985507" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/layout/activity_dashboard.xml" value="0.4701086956521739" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/layout/activity_main.xml" value="0.5401041666666667" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/layout/activity_main2.xml" value="0.27152988855116517" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/layout/activity_mycourses.xml" value="0.32608695652173914" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/layout/activity_notif.xml" value="0.32608695652173914" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/layout/activity_notification.xml" value="0.32608695652173914" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/layout/activity_porfile.xml" value="0.32608695652173914" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/layout/activity_register.xml" value="0.32971014492753625" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/layout/activity_schedule.xml" value="0.5" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/layout/activity_search.xml" value="0.5" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/layout/activity_signin.xml" value="0.32608695652173914" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/layout/activity_veriregister.xml" value="0.32608695652173914" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/menu/bar_botttom.xml" value="0.5583333333333333" />
+        <entry key="..\:/Users/Berlan/AndroidStudioProjects/UAS_DPM_TI5A_RuangKerjaCourse/app/src/main/res/menu/bar_botttom_1.xml" value="0.5583333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
