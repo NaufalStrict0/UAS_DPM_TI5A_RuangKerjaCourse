@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#EFF9FF"
+    android:layout_height="match_parent"
+    tools:context=".Notif">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="55dp">
+        <TextView
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="#52C3FF"
+            android:text="Promo"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"/>
+        <TextView
+            android:layout_marginLeft="170dp"
+            android:textColor="#52C3FF"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:text="Mark Read(4)"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:textColor="@color/black"
+            android:textSize="17dp"
+            android:text="Discount 50% all courses "
+            android:layout_marginRight="-10dp"
+            android:layout_marginLeft="-10dp"
+            android:background="@drawable/bagnotif"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"/>
+        <Button
+            android:layout_marginTop="-5dp"
+            android:textColor="@color/black"
+            android:textSize="17dp"
+            android:text="Choose 2 courses and get 80% cashback "
+            android:layout_marginRight="-10dp"
+            android:layout_marginLeft="-10dp"
+            android:background="@drawable/bagnotif"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"/>
+        <Button
+            android:layout_marginTop="-5dp"
+            android:textColor="@color/black"
+            android:textSize="17dp"
+            android:text="January promo up to 100% "
+            android:layout_marginRight="-10dp"
+            android:layout_marginLeft="-10dp"
+            android:background="@drawable/bagnotif"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"/>
+        <Button
+            android:layout_marginTop="-5dp"
+            android:textColor="@color/black"
+            android:textSize="17dp"
+            android:text="invite friends, earn commission from every valid invite"
+            android:layout_marginRight="-10dp"
+            android:layout_marginLeft="-10dp"
+            android:background="@drawable/bagnotif"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"/>
+        </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
+
+        <TextView
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="#52C3FF"
+            android:text="Team"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"/>
+        <TextView
+            android:layout_marginLeft="170dp"
+            android:textColor="#52C3FF"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:text="Mark Read(2)"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:textColor="@color/black"
+            android:textSize="17dp"
+            android:text="Congratulations you have completed the course(Web Development) with good grades "
+            android:layout_marginRight="-10dp"
+            android:layout_marginLeft="-10dp"
+            android:background="@drawable/bagnotif"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"/>
+        <Button
+            android:layout_marginTop="-5dp"
+            android:textColor="@color/black"
+            android:textSize="16dp"
+            android:text="Congratulations you have completed the course(Creative Art Design) with good grades"
+            android:layout_marginRight="-10dp"
+            android:layout_marginLeft="-10dp"
+            android:background="@drawable/bagnotif"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"/>
+    </LinearLayout>
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:background="@color/white"
+        android:layout_marginTop="125dp"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        app:menu="@menu/bar_botttom"/>
+</LinearLayout>
