@@ -11,40 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.UAS_DPM_TI5A_RuangKerjaCourse">
         <activity
-            android:name=".signin"
-            android:exported="false" />
-        <activity
-            android:name=".mycourses"
-            android:exported="false" />
-        <activity
-            android:name=".register"
-            android:exported="false" />
-        <activity
-            android:name=".Schedule"
-            android:exported="false" />
-        <activity
-            android:name=".Search"
-            android:exported="false" />
-        <activity
-            android:name=".CourseMaterial"
-            android:exported="false" />
-        <activity
-            android:name=".Dashboard"
-            android:exported="false" />
-        <activity
             android:name=".AccountSetting"
-            android:exported="false" />
-        <activity
-            android:name=".veriregister"
-            android:exported="false" />
-        <activity
-            android:name=".Course"
-            android:exported="false" />
-        <activity
-            android:name=".Notif"
-            android:exported="false" />
-        <activity
-            android:name=".Profile"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
